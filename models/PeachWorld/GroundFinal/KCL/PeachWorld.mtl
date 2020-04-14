@@ -1,0 +1,145 @@
+# Blender MTL File: 'PeachWorld.blend'
+# Material Count: 11
+
+newmtl Brick01_AT
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\Brick01_AT_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\Brick01_AT_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\Brick01_AT_alb.png
+
+newmtl GroundBaseSoil00
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundBaseSoil00_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil00_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil00_alb.png
+
+newmtl GroundBaseSoil02
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundBaseSoil02_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil02_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil02_alb.png
+
+newmtl GroundBaseSoil03
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundBaseSoil03_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil03_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil03_alb.png
+
+newmtl GroundBaseSoil04
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundBaseSoil00_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil00_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil00_alb.png
+
+newmtl GroundBaseSoil05
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundBaseSoil00_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil00_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundBaseSoil00_alb.png
+
+newmtl GroundGrassCarpet06
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundGrassCarpet06_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundGrassCarpet06_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundGrassCarpet06_alb.png
+
+newmtl RockBase00
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\RockBase00_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\RockBase00_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\RockBase00_alb.png
+
+newmtl SoillWallStandard03
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\SoillWallStandard03_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\SoillWallStandard03_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\SoillWallStandard03_alb.png
+
+newmtl SoillWallStandard04
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\SoillWallStandard03_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\SoillWallStandard03_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\SoillWallStandard03_alb.png
+
+newmtl rrGroundGrassCarpet07
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd E:\SMO\SMO_romfs\ObjectData\PeachWorldHomeStageTexture\GroundGrassCarpet00_alb.png
+map_Disp E:\\SMGO\\models\\PeachWorld\\Normal_Bump_Normal_Bump.tga
+map_Ka E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundGrassCarpet00_alb.png
+map_d E:\\SMO\\SMO_romfs\\ObjectData\\PeachWorldHomeStageTexture\\GroundGrassCarpet00_alb.png

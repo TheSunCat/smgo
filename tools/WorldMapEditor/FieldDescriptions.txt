@@ -1,0 +1,40 @@
+﻿name : The name of the object to be created.
+l_id : The locator id of the object. (this must be unique.)
+Obj_arg0 : Object argument. Use is dependant on the object.
+Obj_arg1 : Object argument. Use is dependant on the object.
+Obj_arg2 : Object argument. Use is dependant on the object.
+Obj_arg3 : Object argument. Use is dependant on the object.
+Obj_arg4 : Object argument. Use is dependant on the object.
+Obj_arg5 : Object argument. Use is dependant on the object.
+Obj_arg6 : Object argument. Use is dependant on the object.
+Obj_arg7 : Object argument. Use is dependant on the object.
+StageName: The name of the level. 
+MiniatureName: Name of the icon, the icon can be found in <i>ObjectData</i>.
+PointPosIndex: This is the point that the galaxy is connected to. This is found in "Points" and can be assigned any other point.
+StageType: "Galaxy" is a regular galaxy. "MiniGalaxy" has 2 stars, and 2 green stars. BossGalaxyLvX is a boss galaxy. (X being the #.)
+ScaleMin: Unknown. Recommended value is 1.
+ScaleMax: Unknown as well. The usual value is 1.2 or 1.55.
+PosOffsetX: The X position.
+PosOffsetY: The Y position. 
+PosOffsetZ: The Z position. 
+NamePlatePosX: Unknown. Value is usually 0.
+NamePlatePosY: Unknown. Value is usually 1,500.
+NamePlatePosZ: Unknown. Value is usually 0.
+IconOffsetX: X offset of the icon. Usually 0.
+IconOffsetY: Y offset of the icon. Can be a range of many values, can even be negative.
+[043838B2]: The point ID.
+[81F680D3]: x= Yellow point color. o= Pink point color.
+[D4B13A14]: X position of the point.
+[D4B13A15]: Y position of the point.
+[D4B13A16]: Z position of the point.
+PointIndexA: This is the current point the path is on. Use PointIndexB to connect the 2 points.
+PointIndexB: the 2nd point, conected with PointIndexA.
+CloseStageName: Always empty, unknown.
+CloseStageScenario: Always FFFFFFFF. 
+CloseGameFlag: Nothing.
+IsSubRoute: Declares if it's a route that isn't needed. x (Yellow/Blue solid)means it isn't, o (Yellow/Blue dotted) means it is.
+[FA20A549]: Unknown. Always 'x'.
+[E8A61FC5]: The type of map object. (World Warp, Hungry Luma, Star Gate..etc)
+[C112B942]: Functions just like "PointIndex". The point the object is connected to.
+[87EFC5F2]: Only seen this in the Star gates. Goes in order, 1, 2...etc.
+[33ECC72D]: This is an output value. There are many ways to use this, depending on the object. (How many stars you need, starbits needed, starbits given, etc.)

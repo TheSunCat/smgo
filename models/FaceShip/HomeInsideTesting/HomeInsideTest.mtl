@@ -1,0 +1,14 @@
+# Blender MTL File: 'FaceShipKCL.blend'
+# Material Count: 1
+
+newmtl WallMT.003
+Ns 19.607843
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Bump Wall_nrm.png
+map_Kd Wall_alb.png
+map_d Wall_alb.png

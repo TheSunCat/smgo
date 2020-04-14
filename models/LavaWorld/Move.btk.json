@@ -1,0 +1,35 @@
+{
+    "loop_mode": 2,
+    "angle_scale": 1,
+    "duration": 360,
+    "unknown": "0x0",
+    
+    "animations": [
+        {
+            "material_name": "SandRiver_v",
+            "material_index": 0,
+            "center": [0.5, 0.5, 0.5],
+            
+            "scale_uvw": [
+                [1.0, 1.0, 1.0]
+            ],
+            
+            "rotation_uvw": [
+                [0.0, 0.0, 0.0]
+            ],
+            
+            "translation_u": [
+                [0.0, 0.0, 0.0, 0.0],
+                [360.0, 0.0, 0.0, 0.0]
+            ],
+            "translation_v": [
+                [0.0, 0.0, 0.0, -0.013889],
+                [360.0, -5.0, -0.013889, 0.0]
+            ],
+            "translation_w": [
+                [0.0, 0.0, 0.0, 0.0],
+                [360.0, 0.0, 0.0, 0.0]
+            ]
+        }
+    ]
+}

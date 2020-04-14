@@ -1,0 +1,167 @@
+# Blender MTL File: 'CapWorldPack.blend'
+# Material Count: 15
+
+newmtl m10StripeCamouflageSingleLayer00
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\StripeCamouflage03_alb.png
+
+newmtl m13WallBrick00_WallBrick00_alb_png_004
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\WallBrick00_alb.png
+
+newmtl m14WallBrick00_WallBrick00_alb_png_002
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\WallBrick00_alb.png
+
+newmtl m16FeltHair01Color
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\FeltHair01_alb.png
+
+newmtl m18FeltPlainHair01
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\FeltPlainHair01_alb.png
+
+newmtl m19DazzleCamouflage03
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\DazzleCamouflage03_alb.png
+
+newmtl m1WallBrick00_WallBrick00_alb_png
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\WallBrick00_alb.png
+
+newmtl m22MetalGold01
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\MetalGold00_alb.png
+
+newmtl m23DazzleCamouflageSingleLayer_DazzleCamouflage03_alb_png
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\DazzleCamouflage03_alb.png
+
+newmtl m2StripeCamouflageSingleLayer00_StripeCamouflage03_alb_png
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\StripeCamouflage03_alb.png
+
+newmtl m4FeltPlainHair01DifferentLight
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\FeltPlainHair01_alb.png
+
+newmtl m5DazzleCamouflageSingleLayer_DazzleCamouflage03_alb_png_004
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\DazzleCamouflage03_alb.png
+
+newmtl m6DazzleCamouflageSingleLayer_DazzleCamouflage03_alb_png_002
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\DazzleCamouflage03_alb.png
+
+newmtl m8WallStone00_WallStone00_alb_png
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\WallStone00_alb.png
+
+newmtl m9WallStone00_WallStone00_alb_png_001
+Ns -3.921569
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 1
+map_Kd D:\\SMGO\\models\\CapWorld\\OLD\\WallStone00_alb.png
