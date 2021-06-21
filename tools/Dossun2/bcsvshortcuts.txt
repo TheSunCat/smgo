@@ -1,5 +1,0 @@
-# Here you can add custom file shortcuts for the BCSV editor.
-# The format is "Menu name::Item name::ARC filepath::BCSV filepath".
-# 
-# Example:
-# Objects::PlanetMapDataTable::/ObjectData/PlanetMapDataTable.arc::/PlanetMapDataTable/PlanetMapDataTable.bcsv
